@@ -6,7 +6,7 @@ We construct a user-space, portable, index-allocated file system. This system wi
 
 ## Requirements
 
-- Your program shall prompt `mfs>` when ready for user input.
+- The program shall prompt `mfs>` when ready for user input.
 - Implement the following commands:
 
 | Command   | Usage                                            | Description                                                                                                   |
