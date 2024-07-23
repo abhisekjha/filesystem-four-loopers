@@ -2,7 +2,7 @@
 
 ![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)
 
-We construct a user-space, portable, index-allocated file system. This system will afford users 2<sup>26</sup> bytes of drive space within a disk image. The functionality of your program includes creating the filesystem image, listing files, adding and removing files, and persisting the filesystem between sessions.
+construct a user-space, portable, index-allocated file system. This system will afford users 2<sup>26</sup> bytes of drive space within a disk image. The functionality of your program includes creating the filesystem image, listing files, adding and removing files, and persisting the filesystem between sessions.
 
 ## Requirements
 
